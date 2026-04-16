@@ -1,0 +1,10 @@
+names:
+- Cassure
+- Tache
+- defaut
+- fil tire ou gros
+nc: 4
+path: C:\Users\hasee8pro\PycharmProjects\PythonProjectFabic\Textile defect datasts.v1i.yolov8
+test: C:\Users\hasee8pro\PycharmProjects\PythonProjectFabic\Textile defect datasts.v1i.yolov8\test\images
+train: C:\Users\hasee8pro\PycharmProjects\PythonProjectFabic\Textile defect datasts.v1i.yolov8\train\images
+val: C:\Users\hasee8pro\PycharmProjects\PythonProjectFabic\Textile defect datasts.v1i.yolov8\valid\images

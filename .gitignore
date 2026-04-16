@@ -1,0 +1,29 @@
+# Dataset images — do not commit (too large for GitHub)
+# Only data.yaml is tracked; place full dataset locally to train
+Textile defect datasts.v1i.yolov8/train/
+Textile defect datasts.v1i.yolov8/valid/
+Textile defect datasts.v1i.yolov8/test/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# IDE
+.idea/
+.vscode/
+*.swp
+.DS_Store
+Thumbs.db
+
+# Virtual environments
+venv/
+env/
+.env/
+*.egg-info/
+dist/
+build/
+
+# Logs
+*.log
